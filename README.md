@@ -1,4 +1,7 @@
 # IMDB Video Game Ratings Analysis
+
+![video_games](https://user-images.githubusercontent.com/88348888/207042146-309c3787-5509-4401-9f6b-0361442da3af.jpg)
+
 This is my take into the analysis of ratings of video games produced between 1948 and 2022. The data set was acquired from Davis Nyagami on Kaggle who scrapped the data
 from the imdb, https://www.kaggle.com/code/nyagami/web-scraping-video-game-ratings-on-imdb.
 The dataset consists of details of video games which include;
@@ -28,3 +31,6 @@ I took a look into the following;
 - The number of games produced per decade
 - The weighted rating per video game
 - The relationship between variables such as votes and ratings (regression analysis)
+
+The tasks for this project was gotten from Davis Nyagami on Kaggle,https://www.kaggle.com/datasets/nyagami/video-game-ratings-from-imdb.
+photo credit; polygon.com
