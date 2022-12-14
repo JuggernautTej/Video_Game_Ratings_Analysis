@@ -3,7 +3,7 @@
 ![video_games](https://user-images.githubusercontent.com/88348888/207042146-309c3787-5509-4401-9f6b-0361442da3af.jpg)
 
 This is my take into the analysis of ratings of video games produced between 1948 and 2022. The data set was acquired from Davis Nyagami on Kaggle who scrapped the data
-from the imdb, https://www.kaggle.com/code/nyagami/web-scraping-video-game-ratings-on-imdb.
+from the imdb website (https://www.kaggle.com/code/nyagami/web-scraping-video-game-ratings-on-imdb).
 The dataset consists of details of video games which include;
 
 - Game Title
@@ -24,7 +24,7 @@ the results as new datasets. The new datasets are;
 - imdb_videogame_ratings_completeyears; The dataset with the Year column exclusive of non-integer data.
 
 ## Data Exploration
-I took a look into the following;
+Using the new datasets, I took a look into the following;
 
 - The top and lowest rated games
 - The distribution of the ratings 
